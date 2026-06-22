@@ -152,21 +152,21 @@ export const siteData = {
     {
       role: "AI Engineer",
       company: "ZoomInfo",
-      year: "2024 — Present",
+      year: "2024",
       description:
         "Production LLM workflows using Python, OpenAI APIs, LangChain, PostgreSQL, Pinecone, and AWS — RAG pipelines, system prompt design, agentic orchestration, evaluation frameworks, and AI-backend integrations. Reduced unsupported AI recommendations by 22% and search latency by 27%.",
     },
     {
       role: "Software Engineer",
       company: "HiEd Success",
-      year: "2025 — Present",
+      year: "2025",
       description:
         "Backend for a career intelligence platform: Node.js, Express, MongoDB, Azure Blob, JWT-protected REST APIs, resume and JD parsing, candidate–role matching, search, dashboards, notifications, and analytics integrations.",
     },
     {
       role: "Engineer",
       company: "anvikshiki.ai",
-      year: "2025 — Present",
+      year: "2025",
       description:
         "Building an AI-powered coaching SaaS — goal tracking, habit management, personalized recommendations, structured outputs, and recurring workflow automation using Next.js, PostgreSQL, Prisma, and OpenAI/Gemini APIs.",
     },
