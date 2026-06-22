@@ -150,6 +150,13 @@ export const siteData = {
   },
   career: [
     {
+      role: "AI Engineer",
+      company: "ZoomInfo",
+      year: "2024 — Present",
+      description:
+        "Production LLM workflows using Python, OpenAI APIs, LangChain, PostgreSQL, Pinecone, and AWS — RAG pipelines, system prompt design, agentic orchestration, evaluation frameworks, and AI-backend integrations. Reduced unsupported AI recommendations by 22% and search latency by 27%.",
+    },
+    {
       role: "Software Engineer",
       company: "HiEd Success",
       year: "2025 — Present",
@@ -161,26 +168,33 @@ export const siteData = {
       company: "anvikshiki.ai",
       year: "2025 — Present",
       description:
-        "Designing an AI-driven personal intelligence MVP: ingestion, storage, pattern analysis, summarization, embeddings, retrieval, and recommendations built from wearable and phone activity data.",
+        "Building an AI-powered coaching SaaS — goal tracking, habit management, personalized recommendations, structured outputs, and recurring workflow automation using Next.js, PostgreSQL, Prisma, and OpenAI/Gemini APIs.",
     },
     {
-      role: "M.S. Computer Science",
+      role: "Graduate Research Assistant",
       company: "University of Massachusetts Lowell",
-      year: "2025",
+      year: "2023 — 2025",
       description:
-        "Graduate coursework and research-oriented software and data work; deepened systems foundations and applied ML in product-shaped contexts.",
+        "AI and ML experimentation using Python, TensorFlow, Keras, and OpenCV — CNN models for contamination detection achieving RMSE 0.133/0.11, preprocessing pipelines improving training data reliability by 36%, and M.S. CS completed May 2025.",
+    },
+    {
+      role: "ML Software Engineer",
+      company: "Meesho",
+      year: "2022 — 2023",
+      description:
+        "ML-backed data pipelines and ranking workflows using Python, SQL, PySpark, XGBoost, and Scikit-learn — feature engineering from shopper and product data, recommendation improvements lifting engagement 18% and cutting processing time 29%.",
     },
     {
       role: "Software Engineering Intern",
       company: "Bharat Dynamics Limited",
       year: "2023",
       description:
-        "Six-month internship building an internal pass-distribution system — registration, approvals, status tracking — across full-stack modules with heavy validation and debugging in a process-driven environment.",
+        "Six-month internship building an internal pass-distribution system — registration, approvals, and status tracking — across full-stack modules with heavy validation and debugging in a process-driven environment.",
     },
     {
       role: "B.Tech Computer Science",
       company: "CVR College of Engineering",
-      year: "2023",
+      year: "2019 — 2023",
       description:
         "Undergraduate CS foundation — algorithms, systems, and software engineering fundamentals — before graduate study and industry roles.",
     },
@@ -324,7 +338,7 @@ export const siteData = {
       lead: "How I've learned",
       emphasis: "to ship",
       tail: "production software.",
-      sub: "Roles and milestones that shaped how I design backend services, AI workflows, and data systems.",
+      sub: "Roles and milestones that shaped how I build LLM systems, RAG pipelines, backend services, and production-grade AI workflows.",
     },
     work: {
       lead: "Selected",
